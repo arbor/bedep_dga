@@ -1,0 +1,2778 @@
+config0
+	three days ago: 0xb3b4b (736075)
+	downloaded currency xml, 72755 bytes
+	parsed 63 dates from currency xml
+	first date: 2015-04-24
+	finding correct days since:
+		trying: 0xb3b4d (736077) nope
+		trying: 0xb3b4c (736076) nope
+		trying: 0xb3b4b (736075) nope
+		trying: 0xb3b4a (736074) found
+	parsed 31 currencies from 2015-04-21 (currency date):
+		USD: 1.07
+		JPY: 127.75
+		BGN: 1.9558
+		CZK: 27.418
+		DKK: 7.461
+		GBP: 0.7187
+		HUF: 297.41
+		PLN: 3.9683
+		RON: 4.4374
+		SEK: 9.2863
+		CHF: 1.0252
+		NOK: 8.425
+		HRK: 7.577
+		RUB: 57.4375
+		TRY: 2.8755
+		AUD: 1.3821
+		BRL: 3.2423
+		CAD: 1.3085
+		CNY: 6.6358
+		HKD: 8.2926
+		IDR: 13865.38
+		ILS: 4.2198
+		INR: 67.3091
+		KRW: 1158.82
+		MXN: 16.5053
+		MYR: 3.8859
+		NZD: 1.3884
+		PHP: 47.329
+		SGD: 1.4443
+		THB: 34.631
+		ZAR: 12.9576
+	running transforms
+		28 domains
+		seed: 0x16cee76a
+			mixing in USD's rate
+			domain chr: z
+			mixing in NZD's rate
+			domain chr: h
+			mixing in ILS's rate
+			domain chr: b
+			mixing in BRL's rate
+			domain chr: b
+			mixing in NOK's rate
+			domain chr: k
+			mixing in HUF's rate
+			domain chr: v
+			mixing in JPY's rate
+			domain chr: u
+			mixing in PHP's rate
+			domain chr: d
+			mixing in INR's rate
+			domain chr: g
+			mixing in CAD's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: m
+			mixing in PLN's rate
+			domain chr: t
+			mixing in BGN's rate
+			domain chr: r
+			mixing in SGD's rate
+			domain: zhbbkvudgvmtr.com
+		seed: 0x5002afa
+			mixing in USD's rate
+			domain chr: r
+			mixing in NZD's rate
+			domain chr: x
+			mixing in ILS's rate
+			domain chr: f
+			mixing in BRL's rate
+			domain chr: a
+			mixing in NOK's rate
+			domain chr: e
+			mixing in HUF's rate
+			domain chr: i
+			mixing in JPY's rate
+			domain chr: b
+			mixing in PHP's rate
+			domain chr: q
+			mixing in INR's rate
+			domain chr: s
+			mixing in CAD's rate
+			domain chr: s
+			mixing in HRK's rate
+			domain chr: h
+			mixing in PLN's rate
+			domain chr: b
+			mixing in BGN's rate
+			domain chr: p
+			mixing in SGD's rate
+			domain chr: p
+			mixing in KRW's rate
+			domain chr: c
+			mixing in CNY's rate
+			domain chr: u
+			mixing in RUB's rate
+			domain chr: e
+			mixing in RON's rate
+			domain chr: b
+			mixing in CZK's rate
+			domain: rxfaeibqsshbppcueb.com
+		seed: 0x3eec87a2
+			mixing in USD's rate
+			domain chr: d
+			mixing in NZD's rate
+			domain chr: v
+			mixing in ILS's rate
+			domain chr: x
+			mixing in BRL's rate
+			domain chr: h
+			mixing in NOK's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: x
+			mixing in JPY's rate
+			domain chr: a
+			mixing in PHP's rate
+			domain chr: m
+			mixing in INR's rate
+			domain chr: n
+			mixing in CAD's rate
+			domain chr: g
+			mixing in HRK's rate
+			domain chr: c
+			mixing in PLN's rate
+			domain chr: o
+			mixing in BGN's rate
+			domain chr: t
+			mixing in SGD's rate
+			domain chr: g
+			mixing in KRW's rate
+			domain chr: w
+			mixing in CNY's rate
+			domain chr: e
+			mixing in RUB's rate
+			domain chr: m
+			mixing in RON's rate
+			domain chr: c
+			mixing in CZK's rate
+			domain: dvxhvxamngcotgwemc.com
+		seed: 0x18cd6186
+			mixing in USD's rate
+			domain chr: l
+			mixing in NZD's rate
+			domain chr: u
+			mixing in ILS's rate
+			domain chr: n
+			mixing in BRL's rate
+			domain chr: p
+			mixing in NOK's rate
+			domain chr: u
+			mixing in HUF's rate
+			domain chr: u
+			mixing in JPY's rate
+			domain chr: f
+			mixing in PHP's rate
+			domain chr: e
+			mixing in INR's rate
+			domain chr: o
+			mixing in CAD's rate
+			domain chr: z
+			mixing in HRK's rate
+			domain chr: l
+			mixing in PLN's rate
+			domain chr: 5
+			mixing in BGN's rate
+			domain chr: 3
+			mixing in SGD's rate
+			domain: lunpuufeozl53.com
+		seed: 0xe0bdad1
+			mixing in USD's rate
+			domain chr: s
+			mixing in NZD's rate
+			domain chr: j
+			mixing in ILS's rate
+			domain chr: a
+			mixing in BRL's rate
+			domain chr: y
+			mixing in NOK's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: h
+			mixing in JPY's rate
+			domain chr: u
+			mixing in PHP's rate
+			domain chr: e
+			mixing in INR's rate
+			domain chr: f
+			mixing in CAD's rate
+			domain chr: m
+			mixing in HRK's rate
+			domain chr: n
+			mixing in PLN's rate
+			domain chr: w
+			mixing in BGN's rate
+			domain chr: c
+			mixing in SGD's rate
+			domain chr: t
+			mixing in KRW's rate
+			domain: sjayqhuefmnwct.com
+		seed: 0x1b22a1bd
+			mixing in USD's rate
+			domain chr: k
+			mixing in NZD's rate
+			domain chr: m
+			mixing in ILS's rate
+			domain chr: c
+			mixing in BRL's rate
+			domain chr: u
+			mixing in NOK's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: z
+			mixing in JPY's rate
+			domain chr: s
+			mixing in PHP's rate
+			domain chr: p
+			mixing in INR's rate
+			domain chr: x
+			mixing in CAD's rate
+			domain chr: x
+			mixing in HRK's rate
+			domain chr: h
+			mixing in PLN's rate
+			domain chr: c
+			mixing in BGN's rate
+			domain chr: o
+			mixing in SGD's rate
+			domain chr: t
+			mixing in KRW's rate
+			domain chr: c
+			mixing in CNY's rate
+			domain chr: 1
+			mixing in RUB's rate
+			domain chr: i
+			mixing in RON's rate
+			domain: kmcuqzspxxhcotc1i.com
+		seed: 0x7d2d332a
+			mixing in USD's rate
+			domain chr: d
+			mixing in NZD's rate
+			domain chr: u
+			mixing in ILS's rate
+			domain chr: z
+			mixing in BRL's rate
+			domain chr: b
+			mixing in NOK's rate
+			domain chr: j
+			mixing in HUF's rate
+			domain chr: c
+			mixing in JPY's rate
+			domain chr: x
+			mixing in PHP's rate
+			domain chr: c
+			mixing in INR's rate
+			domain chr: m
+			mixing in CAD's rate
+			domain chr: a
+			mixing in HRK's rate
+			domain chr: o
+			mixing in PLN's rate
+			domain chr: b
+			mixing in BGN's rate
+			domain chr: r
+			mixing in SGD's rate
+			domain chr: q
+			mixing in KRW's rate
+			domain chr: m
+			mixing in CNY's rate
+			domain chr: q
+			mixing in RUB's rate
+			domain chr: 9
+			mixing in RON's rate
+			domain chr: n
+			mixing in CZK's rate
+			domain: duzbjcxcmaobrqmq9n.com
+		seed: 0x82fbfc77
+			mixing in USD's rate
+			domain chr: k
+			mixing in NZD's rate
+			domain chr: z
+			mixing in ILS's rate
+			domain chr: b
+			mixing in BRL's rate
+			domain chr: c
+			mixing in NOK's rate
+			domain chr: x
+			mixing in HUF's rate
+			domain chr: g
+			mixing in JPY's rate
+			domain chr: g
+			mixing in PHP's rate
+			domain chr: f
+			mixing in INR's rate
+			domain chr: s
+			mixing in CAD's rate
+			domain chr: c
+			mixing in HRK's rate
+			domain chr: w
+			mixing in PLN's rate
+			domain chr: a
+			mixing in BGN's rate
+			domain chr: f
+			mixing in SGD's rate
+			domain chr: h
+			mixing in KRW's rate
+			domain chr: l
+			mixing in CNY's rate
+			domain: kzbcxggfscwafhl.com
+		seed: 0x9018d634
+			mixing in USD's rate
+			domain chr: x
+			mixing in NZD's rate
+			domain chr: l
+			mixing in ILS's rate
+			domain chr: r
+			mixing in BRL's rate
+			domain chr: j
+			mixing in NOK's rate
+			domain chr: o
+			mixing in HUF's rate
+			domain chr: y
+			mixing in JPY's rate
+			domain chr: w
+			mixing in PHP's rate
+			domain chr: q
+			mixing in INR's rate
+			domain chr: i
+			mixing in CAD's rate
+			domain chr: i
+			mixing in HRK's rate
+			domain chr: h
+			mixing in PLN's rate
+			domain chr: f
+			mixing in BGN's rate
+			domain chr: v
+			mixing in SGD's rate
+			domain chr: z
+			mixing in KRW's rate
+			domain chr: p
+			mixing in CNY's rate
+			domain: xlrjoywqiihfvzp.com
+		seed: 0x46ae7fa
+			mixing in USD's rate
+			domain chr: z
+			mixing in NZD's rate
+			domain chr: x
+			mixing in ILS's rate
+			domain chr: a
+			mixing in BRL's rate
+			domain chr: d
+			mixing in NOK's rate
+			domain chr: o
+			mixing in HUF's rate
+			domain chr: o
+			mixing in JPY's rate
+			domain chr: v
+			mixing in PHP's rate
+			domain chr: m
+			mixing in INR's rate
+			domain chr: v
+			mixing in CAD's rate
+			domain chr: g
+			mixing in HRK's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: d
+			mixing in BGN's rate
+			domain chr: a
+			mixing in SGD's rate
+			domain chr: k
+			mixing in KRW's rate
+			domain: zxadoovmvgpdak.com
+		seed: 0xa662188d
+			mixing in USD's rate
+			domain chr: g
+			mixing in NZD's rate
+			domain chr: t
+			mixing in ILS's rate
+			domain chr: p
+			mixing in BRL's rate
+			domain chr: n
+			mixing in NOK's rate
+			domain chr: o
+			mixing in HUF's rate
+			domain chr: i
+			mixing in JPY's rate
+			domain chr: c
+			mixing in PHP's rate
+			domain chr: s
+			mixing in INR's rate
+			domain chr: p
+			mixing in CAD's rate
+			domain chr: f
+			mixing in HRK's rate
+			domain chr: z
+			mixing in PLN's rate
+			domain chr: 7
+			mixing in BGN's rate
+			domain: gtpnoicspfz7.com
+		seed: 0xc69f6ac2
+			mixing in USD's rate
+			domain chr: d
+			mixing in NZD's rate
+			domain chr: k
+			mixing in ILS's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: n
+			mixing in NOK's rate
+			domain chr: t
+			mixing in HUF's rate
+			domain chr: y
+			mixing in JPY's rate
+			domain chr: s
+			mixing in PHP's rate
+			domain chr: r
+			mixing in INR's rate
+			domain chr: i
+			mixing in CAD's rate
+			domain chr: u
+			mixing in HRK's rate
+			domain chr: a
+			mixing in PLN's rate
+			domain chr: m
+			mixing in BGN's rate
+			domain chr: b
+			mixing in SGD's rate
+			domain chr: q
+			mixing in KRW's rate
+			domain chr: v
+			mixing in CNY's rate
+			domain chr: k
+			mixing in RUB's rate
+			domain chr: 5
+			mixing in RON's rate
+			domain: dkjntysriuambqvk5.com
+		seed: 0x5ab4d3f6
+			mixing in USD's rate
+			domain chr: n
+			mixing in NZD's rate
+			domain chr: f
+			mixing in ILS's rate
+			domain chr: o
+			mixing in BRL's rate
+			domain chr: t
+			mixing in NOK's rate
+			domain chr: n
+			mixing in HUF's rate
+			domain chr: p
+			mixing in JPY's rate
+			domain chr: k
+			mixing in PHP's rate
+			domain chr: h
+			mixing in INR's rate
+			domain chr: z
+			mixing in CAD's rate
+			domain chr: y
+			mixing in HRK's rate
+			domain chr: d
+			mixing in PLN's rate
+			domain chr: g
+			mixing in BGN's rate
+			domain chr: k
+			mixing in SGD's rate
+			domain chr: g
+			mixing in KRW's rate
+			domain chr: 8
+			mixing in CNY's rate
+			domain chr: m
+			mixing in RUB's rate
+			domain: nfotnpkhzydgkg8m.com
+		seed: 0x456319d3
+			mixing in USD's rate
+			domain chr: w
+			mixing in NZD's rate
+			domain chr: r
+			mixing in ILS's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: d
+			mixing in NOK's rate
+			domain chr: i
+			mixing in HUF's rate
+			domain chr: z
+			mixing in JPY's rate
+			domain chr: v
+			mixing in PHP's rate
+			domain chr: h
+			mixing in INR's rate
+			domain chr: s
+			mixing in CAD's rate
+			domain chr: y
+			mixing in HRK's rate
+			domain chr: x
+			mixing in PLN's rate
+			domain chr: i
+			mixing in BGN's rate
+			domain chr: h
+			mixing in SGD's rate
+			domain chr: p
+			mixing in KRW's rate
+			domain chr: w
+			mixing in CNY's rate
+			domain chr: t
+			mixing in RUB's rate
+			domain chr: b
+			mixing in RON's rate
+			domain chr: z
+			mixing in CZK's rate
+			domain: wrjdizvhsyxihpwtbz.com
+		seed: 0x8d0dea4b
+			mixing in USD's rate
+			domain chr: w
+			mixing in NZD's rate
+			domain chr: q
+			mixing in ILS's rate
+			domain chr: c
+			mixing in BRL's rate
+			domain chr: o
+			mixing in NOK's rate
+			domain chr: s
+			mixing in HUF's rate
+			domain chr: u
+			mixing in JPY's rate
+			domain chr: v
+			mixing in PHP's rate
+			domain chr: q
+			mixing in INR's rate
+			domain chr: e
+			mixing in CAD's rate
+			domain chr: h
+			mixing in HRK's rate
+			domain chr: x
+			mixing in PLN's rate
+			domain chr: j
+			mixing in BGN's rate
+			domain chr: h
+			mixing in SGD's rate
+			domain chr: o
+			mixing in KRW's rate
+			domain chr: e
+			mixing in CNY's rate
+			domain chr: s
+			mixing in RUB's rate
+			domain chr: 5
+			mixing in RON's rate
+			domain chr: 3
+			mixing in CZK's rate
+			domain: wqcosuvqehxjhoes53.com
+		seed: 0xf7180b18
+			mixing in USD's rate
+			domain chr: f
+			mixing in NZD's rate
+			domain chr: i
+			mixing in ILS's rate
+			domain chr: z
+			mixing in BRL's rate
+			domain chr: s
+			mixing in NOK's rate
+			domain chr: z
+			mixing in HUF's rate
+			domain chr: c
+			mixing in JPY's rate
+			domain chr: x
+			mixing in PHP's rate
+			domain chr: o
+			mixing in INR's rate
+			domain chr: m
+			mixing in CAD's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: e
+			mixing in PLN's rate
+			domain chr: g
+			mixing in BGN's rate
+			domain chr: i
+			mixing in SGD's rate
+			domain chr: j
+			mixing in KRW's rate
+			domain chr: k
+			mixing in CNY's rate
+			domain chr: y
+			mixing in RUB's rate
+			domain chr: i
+			mixing in RON's rate
+			domain chr: v
+			mixing in CZK's rate
+			domain: fizszcxomjegijkyiv.com
+		seed: 0xcc1ae1f4
+			mixing in USD's rate
+			domain chr: x
+			mixing in NZD's rate
+			domain chr: s
+			mixing in ILS's rate
+			domain chr: l
+			mixing in BRL's rate
+			domain chr: d
+			mixing in NOK's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: c
+			mixing in JPY's rate
+			domain chr: f
+			mixing in PHP's rate
+			domain chr: v
+			mixing in INR's rate
+			domain chr: c
+			mixing in CAD's rate
+			domain chr: s
+			mixing in HRK's rate
+			domain chr: i
+			mixing in PLN's rate
+			domain chr: e
+			mixing in BGN's rate
+			domain chr: v
+			mixing in SGD's rate
+			domain chr: o
+			mixing in KRW's rate
+			domain chr: d
+			mixing in CNY's rate
+			domain: xsldvcfvcsievod.com
+		seed: 0x785ae961
+			mixing in USD's rate
+			domain chr: m
+			mixing in NZD's rate
+			domain chr: q
+			mixing in ILS's rate
+			domain chr: m
+			mixing in BRL's rate
+			domain chr: e
+			mixing in NOK's rate
+			domain chr: x
+			mixing in HUF's rate
+			domain chr: n
+			mixing in JPY's rate
+			domain chr: k
+			mixing in PHP's rate
+			domain chr: g
+			mixing in INR's rate
+			domain chr: j
+			mixing in CAD's rate
+			domain chr: k
+			mixing in HRK's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: j
+			mixing in BGN's rate
+			domain chr: j
+			mixing in SGD's rate
+			domain chr: z
+			mixing in KRW's rate
+			domain: mqmexnkgjkpjjz.com
+		seed: 0x8920aac7
+			mixing in USD's rate
+			domain chr: y
+			mixing in NZD's rate
+			domain chr: j
+			mixing in ILS's rate
+			domain chr: f
+			mixing in BRL's rate
+			domain chr: z
+			mixing in NOK's rate
+			domain chr: m
+			mixing in HUF's rate
+			domain chr: t
+			mixing in JPY's rate
+			domain chr: f
+			mixing in PHP's rate
+			domain chr: w
+			mixing in INR's rate
+			domain chr: e
+			mixing in CAD's rate
+			domain chr: t
+			mixing in HRK's rate
+			domain chr: r
+			mixing in PLN's rate
+			domain chr: h
+			mixing in BGN's rate
+			domain chr: f
+			mixing in SGD's rate
+			domain chr: y
+			mixing in KRW's rate
+			domain chr: t
+			mixing in CNY's rate
+			domain chr: c
+			mixing in RUB's rate
+			domain chr: a
+			mixing in RON's rate
+			domain chr: z
+			mixing in CZK's rate
+			domain: yjfzmtfwetrhfytcaz.com
+		seed: 0x50e824d8
+			mixing in USD's rate
+			domain chr: t
+			mixing in NZD's rate
+			domain chr: s
+			mixing in ILS's rate
+			domain chr: g
+			mixing in BRL's rate
+			domain chr: i
+			mixing in NOK's rate
+			domain chr: e
+			mixing in HUF's rate
+			domain chr: n
+			mixing in JPY's rate
+			domain chr: g
+			mixing in PHP's rate
+			domain chr: k
+			mixing in INR's rate
+			domain chr: a
+			mixing in CAD's rate
+			domain chr: l
+			mixing in HRK's rate
+			domain chr: u
+			mixing in PLN's rate
+			domain chr: u
+			mixing in BGN's rate
+			domain chr: w
+			mixing in SGD's rate
+			domain chr: b
+			mixing in KRW's rate
+			domain chr: y
+			mixing in CNY's rate
+			domain: tsgiengkaluuwby.com
+		seed: 0xa8423d34
+			mixing in USD's rate
+			domain chr: v
+			mixing in NZD's rate
+			domain chr: a
+			mixing in ILS's rate
+			domain chr: r
+			mixing in BRL's rate
+			domain chr: q
+			mixing in NOK's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: f
+			mixing in JPY's rate
+			domain chr: l
+			mixing in PHP's rate
+			domain chr: q
+			mixing in INR's rate
+			domain chr: b
+			mixing in CAD's rate
+			domain chr: p
+			mixing in HRK's rate
+			domain chr: u
+			mixing in PLN's rate
+			domain chr: l
+			mixing in BGN's rate
+			domain chr: v
+			mixing in SGD's rate
+			domain chr: u
+			mixing in KRW's rate
+			domain chr: g
+			mixing in CNY's rate
+			domain chr: l
+			mixing in RUB's rate
+			domain: varqqflqbpulvugl.com
+		seed: 0x5ef838e3
+			mixing in USD's rate
+			domain chr: c
+			mixing in NZD's rate
+			domain chr: h
+			mixing in ILS's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: h
+			mixing in NOK's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: d
+			mixing in JPY's rate
+			domain chr: f
+			mixing in PHP's rate
+			domain chr: s
+			mixing in INR's rate
+			domain chr: t
+			mixing in CAD's rate
+			domain chr: s
+			mixing in HRK's rate
+			domain chr: x
+			mixing in PLN's rate
+			domain chr: t
+			mixing in BGN's rate
+			domain chr: q
+			mixing in SGD's rate
+			domain chr: g
+			mixing in KRW's rate
+			domain chr: k
+			mixing in CNY's rate
+			domain chr: n
+			mixing in RUB's rate
+			domain chr: 2
+			mixing in RON's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain: chjhvdfstsxtqgkn2k.com
+		seed: 0x8ef6f63e
+			mixing in USD's rate
+			domain chr: n
+			mixing in NZD's rate
+			domain chr: q
+			mixing in ILS's rate
+			domain chr: o
+			mixing in BRL's rate
+			domain chr: f
+			mixing in NOK's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: s
+			mixing in JPY's rate
+			domain chr: d
+			mixing in PHP's rate
+			domain chr: u
+			mixing in INR's rate
+			domain chr: t
+			mixing in CAD's rate
+			domain chr: d
+			mixing in HRK's rate
+			domain chr: q
+			mixing in PLN's rate
+			domain chr: n
+			mixing in BGN's rate
+			domain chr: x
+			mixing in SGD's rate
+			domain chr: h
+			mixing in KRW's rate
+			domain: nqofqsdutdqnxh.com
+		seed: 0xb0b223b7
+			mixing in USD's rate
+			domain chr: y
+			mixing in NZD's rate
+			domain chr: c
+			mixing in ILS's rate
+			domain chr: k
+			mixing in BRL's rate
+			domain chr: w
+			mixing in NOK's rate
+			domain chr: w
+			mixing in HUF's rate
+			domain chr: w
+			mixing in JPY's rate
+			domain chr: f
+			mixing in PHP's rate
+			domain chr: x
+			mixing in INR's rate
+			domain chr: q
+			mixing in CAD's rate
+			domain chr: e
+			mixing in HRK's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: s
+			mixing in BGN's rate
+			domain chr: t
+			mixing in SGD's rate
+			domain chr: j
+			mixing in KRW's rate
+			domain chr: p
+			mixing in CNY's rate
+			domain: yckwwwfxqepstjp.com
+		seed: 0x305e6ec5
+			mixing in USD's rate
+			domain chr: a
+			mixing in NZD's rate
+			domain chr: f
+			mixing in ILS's rate
+			domain chr: c
+			mixing in BRL's rate
+			domain chr: u
+			mixing in NOK's rate
+			domain chr: b
+			mixing in HUF's rate
+			domain chr: n
+			mixing in JPY's rate
+			domain chr: v
+			mixing in PHP's rate
+			domain chr: c
+			mixing in INR's rate
+			domain chr: t
+			mixing in CAD's rate
+			domain chr: o
+			mixing in HRK's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: v
+			mixing in BGN's rate
+			domain chr: k
+			mixing in SGD's rate
+			domain chr: z
+			mixing in KRW's rate
+			domain chr: c
+			mixing in CNY's rate
+			domain chr: c
+			mixing in RUB's rate
+			domain: afcubnvctopvkzcc.com
+		seed: 0x5cff1906
+			mixing in USD's rate
+			domain chr: d
+			mixing in NZD's rate
+			domain chr: o
+			mixing in ILS's rate
+			domain chr: h
+			mixing in BRL's rate
+			domain chr: v
+			mixing in NOK's rate
+			domain chr: d
+			mixing in HUF's rate
+			domain chr: v
+			mixing in JPY's rate
+			domain chr: t
+			mixing in PHP's rate
+			domain chr: f
+			mixing in INR's rate
+			domain chr: j
+			mixing in CAD's rate
+			domain chr: g
+			mixing in HRK's rate
+			domain chr: q
+			mixing in PLN's rate
+			domain chr: c
+			mixing in BGN's rate
+			domain chr: g
+			mixing in SGD's rate
+			domain chr: y
+			mixing in KRW's rate
+			domain chr: t
+			mixing in CNY's rate
+			domain chr: f
+			mixing in RUB's rate
+			domain chr: r
+			mixing in RON's rate
+			domain chr: g
+			mixing in CZK's rate
+			domain: dohvdvtfjgqcgytfrg.com
+		seed: 0x5b41d342
+			mixing in USD's rate
+			domain chr: f
+			mixing in NZD's rate
+			domain chr: b
+			mixing in ILS's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: z
+			mixing in NOK's rate
+			domain chr: y
+			mixing in HUF's rate
+			domain chr: y
+			mixing in JPY's rate
+			domain chr: v
+			mixing in PHP's rate
+			domain chr: m
+			mixing in INR's rate
+			domain chr: f
+			mixing in CAD's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: y
+			mixing in PLN's rate
+			domain chr: e
+			mixing in BGN's rate
+			domain chr: 7
+			mixing in SGD's rate
+			domain: fbjzyyvmfjye7.com
+		seed: 0xbb42cad2
+			mixing in USD's rate
+			domain chr: p
+			mixing in NZD's rate
+			domain chr: m
+			mixing in ILS's rate
+			domain chr: n
+			mixing in BRL's rate
+			domain chr: j
+			mixing in NOK's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: w
+			mixing in JPY's rate
+			domain chr: e
+			mixing in PHP's rate
+			domain chr: p
+			mixing in INR's rate
+			domain chr: z
+			mixing in CAD's rate
+			domain chr: q
+			mixing in HRK's rate
+			domain chr: k
+			mixing in PLN's rate
+			domain chr: v
+			mixing in BGN's rate
+			domain chr: e
+			mixing in SGD's rate
+			domain chr: h
+			mixing in KRW's rate
+			domain chr: r
+			mixing in CNY's rate
+			domain chr: k
+			mixing in RUB's rate
+			domain chr: i
+			mixing in RON's rate
+			domain: pmnjqwepzqkvehrki.com
+	transforms done
+
+	28 domains:
+		zhbbkvudgvmtr.com
+		rxfaeibqsshbppcueb.com
+		dvxhvxamngcotgwemc.com
+		lunpuufeozl53.com
+		sjayqhuefmnwct.com
+		kmcuqzspxxhcotc1i.com
+		duzbjcxcmaobrqmq9n.com
+		kzbcxggfscwafhl.com
+		xlrjoywqiihfvzp.com
+		zxadoovmvgpdak.com
+		gtpnoicspfz7.com
+		dkjntysriuambqvk5.com
+		nfotnpkhzydgkg8m.com
+		wrjdizvhsyxihpwtbz.com
+		wqcosuvqehxjhoes53.com
+		fizszcxomjegijkyiv.com
+		xsldvcfvcsievod.com
+		mqmexnkgjkpjjz.com
+		yjfzmtfwetrhfytcaz.com
+		tsgiengkaluuwby.com
+		varqqflqbpulvugl.com
+		chjhvdfstsxtqgkn2k.com
+		nqofqsdutdqnxh.com
+		yckwwwfxqepstjp.com
+		afcubnvctopvkzcc.com
+		dohvdvtfjgqcgytfrg.com
+		fbjzyyvmfjye7.com
+		pmnjqwepzqkvehrki.com
+
+config1
+	three days ago: 0xb3b4b (736075)
+	downloaded currency xml, 72755 bytes
+	parsed 63 dates from currency xml
+	first date: 2015-04-24
+	finding correct days since:
+		trying: 0xb3b4d (736077) nope
+		trying: 0xb3b4c (736076) nope
+		trying: 0xb3b4b (736075) nope
+		trying: 0xb3b4a (736074) found
+	parsed 31 currencies from 2015-04-21 (currency date):
+		USD: 1.07
+		JPY: 127.75
+		BGN: 1.9558
+		CZK: 27.418
+		DKK: 7.461
+		GBP: 0.7187
+		HUF: 297.41
+		PLN: 3.9683
+		RON: 4.4374
+		SEK: 9.2863
+		CHF: 1.0252
+		NOK: 8.425
+		HRK: 7.577
+		RUB: 57.4375
+		TRY: 2.8755
+		AUD: 1.3821
+		BRL: 3.2423
+		CAD: 1.3085
+		CNY: 6.6358
+		HKD: 8.2926
+		IDR: 13865.38
+		ILS: 4.2198
+		INR: 67.3091
+		KRW: 1158.82
+		MXN: 16.5053
+		MYR: 3.8859
+		NZD: 1.3884
+		PHP: 47.329
+		SGD: 1.4443
+		THB: 34.631
+		ZAR: 12.9576
+	running transforms
+		22 domains
+		seed: 0x93a49f8a
+			mixing in USD's rate
+			domain chr: j
+			mixing in JPY's rate
+			domain chr: r
+			mixing in BGN's rate
+			domain chr: e
+			mixing in CZK's rate
+			domain chr: y
+			mixing in DKK's rate
+			domain chr: f
+			mixing in GBP's rate
+			domain chr: a
+			mixing in HUF's rate
+			domain chr: t
+			mixing in PLN's rate
+			domain chr: v
+			mixing in RON's rate
+			domain chr: j
+			mixing in SEK's rate
+			domain chr: b
+			mixing in CHF's rate
+			domain chr: f
+			mixing in NOK's rate
+			domain chr: a
+			mixing in HRK's rate
+			domain chr: i
+			mixing in RUB's rate
+			domain chr: k
+			mixing in TRY's rate
+			domain chr: v
+			mixing in AUD's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: z
+			mixing in CAD's rate
+			domain chr: b
+			mixing in CNY's rate
+			domain: jreyfatvjbfaikvjzb.com
+		seed: 0xa68cdef6
+			mixing in USD's rate
+			domain chr: n
+			mixing in JPY's rate
+			domain chr: f
+			mixing in BGN's rate
+			domain chr: n
+			mixing in CZK's rate
+			domain chr: b
+			mixing in DKK's rate
+			domain chr: s
+			mixing in GBP's rate
+			domain chr: p
+			mixing in HUF's rate
+			domain chr: o
+			mixing in PLN's rate
+			domain chr: o
+			mixing in RON's rate
+			domain chr: c
+			mixing in SEK's rate
+			domain chr: t
+			mixing in CHF's rate
+			domain chr: 7
+			mixing in NOK's rate
+			domain chr: d
+			mixing in HRK's rate
+			domain: nfnbspooct7d.com
+		seed: 0xe962e1c9
+			mixing in USD's rate
+			domain chr: g
+			mixing in JPY's rate
+			domain chr: i
+			mixing in BGN's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain chr: z
+			mixing in DKK's rate
+			domain chr: n
+			mixing in GBP's rate
+			domain chr: n
+			mixing in HUF's rate
+			domain chr: k
+			mixing in PLN's rate
+			domain chr: g
+			mixing in RON's rate
+			domain chr: i
+			mixing in SEK's rate
+			domain chr: g
+			mixing in CHF's rate
+			domain chr: f
+			mixing in NOK's rate
+			domain chr: t
+			mixing in HRK's rate
+			domain chr: g
+			mixing in RUB's rate
+			domain: gikznnkgigftg.com
+		seed: 0x2c3a2d58
+			mixing in USD's rate
+			domain chr: x
+			mixing in JPY's rate
+			domain chr: s
+			mixing in BGN's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain chr: o
+			mixing in DKK's rate
+			domain chr: g
+			mixing in GBP's rate
+			domain chr: q
+			mixing in HUF's rate
+			domain chr: o
+			mixing in PLN's rate
+			domain chr: d
+			mixing in RON's rate
+			domain chr: g
+			mixing in SEK's rate
+			domain chr: s
+			mixing in CHF's rate
+			domain chr: d
+			mixing in NOK's rate
+			domain chr: k
+			mixing in HRK's rate
+			domain: xskogqodgsdk.com
+		seed: 0x375343bb
+			mixing in USD's rate
+			domain chr: y
+			mixing in JPY's rate
+			domain chr: i
+			mixing in BGN's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain chr: s
+			mixing in DKK's rate
+			domain chr: u
+			mixing in GBP's rate
+			domain chr: r
+			mixing in HUF's rate
+			domain chr: i
+			mixing in PLN's rate
+			domain chr: a
+			mixing in RON's rate
+			domain chr: e
+			mixing in SEK's rate
+			domain chr: v
+			mixing in CHF's rate
+			domain chr: u
+			mixing in NOK's rate
+			domain chr: y
+			mixing in HRK's rate
+			domain chr: b
+			mixing in RUB's rate
+			domain: yiksuriaevuyb.com
+		seed: 0xdad26a23
+			mixing in USD's rate
+			domain chr: s
+			mixing in JPY's rate
+			domain chr: a
+			mixing in BGN's rate
+			domain chr: j
+			mixing in CZK's rate
+			domain chr: x
+			mixing in DKK's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: f
+			mixing in HUF's rate
+			domain chr: n
+			mixing in PLN's rate
+			domain chr: t
+			mixing in RON's rate
+			domain chr: m
+			mixing in SEK's rate
+			domain chr: z
+			mixing in CHF's rate
+			domain chr: l
+			mixing in NOK's rate
+			domain chr: b
+			mixing in HRK's rate
+			domain chr: u
+			mixing in RUB's rate
+			domain chr: i
+			mixing in TRY's rate
+			domain: sajxvfntmzlbui.com
+		seed: 0xf2193d53
+			mixing in USD's rate
+			domain chr: y
+			mixing in JPY's rate
+			domain chr: z
+			mixing in BGN's rate
+			domain chr: d
+			mixing in CZK's rate
+			domain chr: q
+			mixing in DKK's rate
+			domain chr: y
+			mixing in GBP's rate
+			domain chr: a
+			mixing in HUF's rate
+			domain chr: d
+			mixing in PLN's rate
+			domain chr: z
+			mixing in RON's rate
+			domain chr: h
+			mixing in SEK's rate
+			domain chr: a
+			mixing in CHF's rate
+			domain chr: j
+			mixing in NOK's rate
+			domain chr: n
+			mixing in HRK's rate
+			domain chr: 7
+			mixing in RUB's rate
+			domain: yzdqyadzhajn7.com
+		seed: 0x50248ad0
+			mixing in USD's rate
+			domain chr: d
+			mixing in JPY's rate
+			domain chr: a
+			mixing in BGN's rate
+			domain chr: l
+			mixing in CZK's rate
+			domain chr: l
+			mixing in DKK's rate
+			domain chr: y
+			mixing in GBP's rate
+			domain chr: y
+			mixing in HUF's rate
+			domain chr: u
+			mixing in PLN's rate
+			domain chr: n
+			mixing in RON's rate
+			domain chr: d
+			mixing in SEK's rate
+			domain chr: f
+			mixing in CHF's rate
+			domain chr: h
+			mixing in NOK's rate
+			domain chr: w
+			mixing in HRK's rate
+			domain chr: c
+			mixing in RUB's rate
+			domain: dallyyundfhwc.com
+		seed: 0x14cc2bd8
+			mixing in USD's rate
+			domain chr: v
+			mixing in JPY's rate
+			domain chr: d
+			mixing in BGN's rate
+			domain chr: o
+			mixing in CZK's rate
+			domain chr: b
+			mixing in DKK's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: o
+			mixing in HUF's rate
+			domain chr: x
+			mixing in PLN's rate
+			domain chr: w
+			mixing in RON's rate
+			domain chr: i
+			mixing in SEK's rate
+			domain chr: w
+			mixing in CHF's rate
+			domain chr: e
+			mixing in NOK's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: g
+			mixing in RUB's rate
+			domain chr: o
+			mixing in TRY's rate
+			domain chr: u
+			mixing in AUD's rate
+			domain chr: b
+			mixing in BRL's rate
+			domain: vdobvoxwiwevgoub.com
+		seed: 0x1e157e0f
+			mixing in USD's rate
+			domain chr: w
+			mixing in JPY's rate
+			domain chr: d
+			mixing in BGN's rate
+			domain chr: g
+			mixing in CZK's rate
+			domain chr: m
+			mixing in DKK's rate
+			domain chr: g
+			mixing in GBP's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: v
+			mixing in RON's rate
+			domain chr: z
+			mixing in SEK's rate
+			domain chr: t
+			mixing in CHF's rate
+			domain chr: y
+			mixing in NOK's rate
+			domain chr: g
+			mixing in HRK's rate
+			domain chr: k
+			mixing in RUB's rate
+			domain chr: 5
+			mixing in TRY's rate
+			domain chr: q
+			mixing in AUD's rate
+			domain: wdgmgvpvztygk5q.com
+		seed: 0xd0d12634
+			mixing in USD's rate
+			domain chr: l
+			mixing in JPY's rate
+			domain chr: g
+			mixing in BGN's rate
+			domain chr: e
+			mixing in CZK's rate
+			domain chr: j
+			mixing in DKK's rate
+			domain chr: j
+			mixing in GBP's rate
+			domain chr: f
+			mixing in HUF's rate
+			domain chr: p
+			mixing in PLN's rate
+			domain chr: p
+			mixing in RON's rate
+			domain chr: y
+			mixing in SEK's rate
+			domain chr: x
+			mixing in CHF's rate
+			domain chr: t
+			mixing in NOK's rate
+			domain chr: p
+			mixing in HRK's rate
+			domain chr: x
+			mixing in RUB's rate
+			domain chr: k
+			mixing in TRY's rate
+			domain chr: c
+			mixing in AUD's rate
+			domain chr: v
+			mixing in BRL's rate
+			domain chr: m
+			mixing in CAD's rate
+			domain chr: t
+			mixing in CNY's rate
+			domain: lgejjfppyxtpxkcvmt.com
+		seed: 0xc54f5b64
+			mixing in USD's rate
+			domain chr: x
+			mixing in JPY's rate
+			domain chr: z
+			mixing in BGN's rate
+			domain chr: s
+			mixing in CZK's rate
+			domain chr: w
+			mixing in DKK's rate
+			domain chr: n
+			mixing in GBP's rate
+			domain chr: w
+			mixing in HUF's rate
+			domain chr: q
+			mixing in PLN's rate
+			domain chr: c
+			mixing in RON's rate
+			domain chr: k
+			mixing in SEK's rate
+			domain chr: w
+			mixing in CHF's rate
+			domain chr: x
+			mixing in NOK's rate
+			domain chr: a
+			mixing in HRK's rate
+			domain chr: u
+			mixing in RUB's rate
+			domain: xzswnwqckwxau.com
+		seed: 0xf4edf68b
+			mixing in USD's rate
+			domain chr: k
+			mixing in JPY's rate
+			domain chr: v
+			mixing in BGN's rate
+			domain chr: l
+			mixing in CZK's rate
+			domain chr: w
+			mixing in DKK's rate
+			domain chr: f
+			mixing in GBP's rate
+			domain chr: i
+			mixing in HUF's rate
+			domain chr: m
+			mixing in PLN's rate
+			domain chr: q
+			mixing in RON's rate
+			domain chr: y
+			mixing in SEK's rate
+			domain chr: j
+			mixing in CHF's rate
+			domain chr: h
+			mixing in NOK's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: l
+			mixing in RUB's rate
+			domain chr: p
+			mixing in TRY's rate
+			domain: kvlwfimqyjhvlp.com
+		seed: 0xde680d28
+			mixing in USD's rate
+			domain chr: f
+			mixing in JPY's rate
+			domain chr: a
+			mixing in BGN's rate
+			domain chr: g
+			mixing in CZK's rate
+			domain chr: u
+			mixing in DKK's rate
+			domain chr: d
+			mixing in GBP's rate
+			domain chr: u
+			mixing in HUF's rate
+			domain chr: e
+			mixing in PLN's rate
+			domain chr: u
+			mixing in RON's rate
+			domain chr: i
+			mixing in SEK's rate
+			domain chr: z
+			mixing in CHF's rate
+			domain chr: v
+			mixing in NOK's rate
+			domain chr: s
+			mixing in HRK's rate
+			domain chr: 9
+			mixing in RUB's rate
+			domain chr: e
+			mixing in TRY's rate
+			domain: fagudueuizvs9e.com
+		seed: 0x98c3a61a
+			mixing in USD's rate
+			domain chr: t
+			mixing in JPY's rate
+			domain chr: q
+			mixing in BGN's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain chr: n
+			mixing in DKK's rate
+			domain chr: f
+			mixing in GBP's rate
+			domain chr: k
+			mixing in HUF's rate
+			domain chr: i
+			mixing in PLN's rate
+			domain chr: r
+			mixing in RON's rate
+			domain chr: y
+			mixing in SEK's rate
+			domain chr: p
+			mixing in CHF's rate
+			domain chr: 6
+			mixing in NOK's rate
+			domain chr: w
+			mixing in HRK's rate
+			domain: tqknfkiryp6w.com
+		seed: 0xd2e5e67
+			mixing in USD's rate
+			domain chr: q
+			mixing in JPY's rate
+			domain chr: t
+			mixing in BGN's rate
+			domain chr: q
+			mixing in CZK's rate
+			domain chr: p
+			mixing in DKK's rate
+			domain chr: b
+			mixing in GBP's rate
+			domain chr: w
+			mixing in HUF's rate
+			domain chr: j
+			mixing in PLN's rate
+			domain chr: u
+			mixing in RON's rate
+			domain chr: a
+			mixing in SEK's rate
+			domain chr: z
+			mixing in CHF's rate
+			domain chr: r
+			mixing in NOK's rate
+			domain chr: y
+			mixing in HRK's rate
+			domain chr: s
+			mixing in RUB's rate
+			domain: qtqpbwjuazrys.com
+		seed: 0x2fa8c070
+			mixing in USD's rate
+			domain chr: h
+			mixing in JPY's rate
+			domain chr: z
+			mixing in BGN's rate
+			domain chr: e
+			mixing in CZK's rate
+			domain chr: t
+			mixing in DKK's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: e
+			mixing in HUF's rate
+			domain chr: a
+			mixing in PLN's rate
+			domain chr: j
+			mixing in RON's rate
+			domain chr: s
+			mixing in SEK's rate
+			domain chr: v
+			mixing in CHF's rate
+			domain chr: h
+			mixing in NOK's rate
+			domain chr: n
+			mixing in HRK's rate
+			domain chr: h
+			mixing in RUB's rate
+			domain chr: 3
+			mixing in TRY's rate
+			domain chr: 7
+			mixing in AUD's rate
+			domain: hzetleajsvhnh37.com
+		seed: 0x41f4079c
+			mixing in USD's rate
+			domain chr: f
+			mixing in JPY's rate
+			domain chr: y
+			mixing in BGN's rate
+			domain chr: x
+			mixing in CZK's rate
+			domain chr: d
+			mixing in DKK's rate
+			domain chr: n
+			mixing in GBP's rate
+			domain chr: x
+			mixing in HUF's rate
+			domain chr: v
+			mixing in PLN's rate
+			domain chr: z
+			mixing in RON's rate
+			domain chr: u
+			mixing in SEK's rate
+			domain chr: n
+			mixing in CHF's rate
+			domain chr: e
+			mixing in NOK's rate
+			domain chr: 4
+			mixing in HRK's rate
+			domain chr: l
+			mixing in RUB's rate
+			domain: fyxdnxvzune4l.com
+		seed: 0x8322de97
+			mixing in USD's rate
+			domain chr: c
+			mixing in JPY's rate
+			domain chr: h
+			mixing in BGN's rate
+			domain chr: x
+			mixing in CZK's rate
+			domain chr: e
+			mixing in DKK's rate
+			domain chr: g
+			mixing in GBP's rate
+			domain chr: d
+			mixing in HUF's rate
+			domain chr: i
+			mixing in PLN's rate
+			domain chr: d
+			mixing in RON's rate
+			domain chr: d
+			mixing in SEK's rate
+			domain chr: l
+			mixing in CHF's rate
+			domain chr: o
+			mixing in NOK's rate
+			domain chr: 5
+			mixing in HRK's rate
+			domain: chxegdiddlo5.com
+		seed: 0x835b6f30
+			mixing in USD's rate
+			domain chr: f
+			mixing in JPY's rate
+			domain chr: l
+			mixing in BGN's rate
+			domain chr: y
+			mixing in CZK's rate
+			domain chr: m
+			mixing in DKK's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: e
+			mixing in HUF's rate
+			domain chr: d
+			mixing in PLN's rate
+			domain chr: k
+			mixing in RON's rate
+			domain chr: y
+			mixing in SEK's rate
+			domain chr: c
+			mixing in CHF's rate
+			domain chr: i
+			mixing in NOK's rate
+			domain chr: u
+			mixing in HRK's rate
+			domain chr: y
+			mixing in RUB's rate
+			domain chr: 4
+			mixing in TRY's rate
+			domain chr: n
+			mixing in AUD's rate
+			domain: flymledkyciuy4n.com
+		seed: 0x9baeb42d
+			mixing in USD's rate
+			domain chr: s
+			mixing in JPY's rate
+			domain chr: o
+			mixing in BGN's rate
+			domain chr: w
+			mixing in CZK's rate
+			domain chr: g
+			mixing in DKK's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: g
+			mixing in HUF's rate
+			domain chr: d
+			mixing in PLN's rate
+			domain chr: o
+			mixing in RON's rate
+			domain chr: x
+			mixing in SEK's rate
+			domain chr: l
+			mixing in CHF's rate
+			domain chr: n
+			mixing in NOK's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: a
+			mixing in RUB's rate
+			domain chr: l
+			mixing in TRY's rate
+			domain chr: a
+			mixing in AUD's rate
+			domain chr: c
+			mixing in BRL's rate
+			domain chr: 5
+			mixing in CAD's rate
+			domain chr: 7
+			mixing in CNY's rate
+			domain: sowglgdoxlnjalac57.com
+		seed: 0xf318a0fe
+			mixing in USD's rate
+			domain chr: j
+			mixing in JPY's rate
+			domain chr: r
+			mixing in BGN's rate
+			domain chr: q
+			mixing in CZK's rate
+			domain chr: n
+			mixing in DKK's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: y
+			mixing in HUF's rate
+			domain chr: s
+			mixing in PLN's rate
+			domain chr: p
+			mixing in RON's rate
+			domain chr: v
+			mixing in SEK's rate
+			domain chr: r
+			mixing in CHF's rate
+			domain chr: o
+			mixing in NOK's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: r
+			mixing in RUB's rate
+			domain chr: i
+			mixing in TRY's rate
+			domain chr: y
+			mixing in AUD's rate
+			domain chr: e
+			mixing in BRL's rate
+			domain chr: 7
+			mixing in CAD's rate
+			domain chr: k
+			mixing in CNY's rate
+			domain: jrqnlyspvrojriye7k.com
+	transforms done
+
+	22 domains:
+		jreyfatvjbfaikvjzb.com
+		nfnbspooct7d.com
+		gikznnkgigftg.com
+		xskogqodgsdk.com
+		yiksuriaevuyb.com
+		sajxvfntmzlbui.com
+		yzdqyadzhajn7.com
+		dallyyundfhwc.com
+		vdobvoxwiwevgoub.com
+		wdgmgvpvztygk5q.com
+		lgejjfppyxtpxkcvmt.com
+		xzswnwqckwxau.com
+		kvlwfimqyjhvlp.com
+		fagudueuizvs9e.com
+		tqknfkiryp6w.com
+		qtqpbwjuazrys.com
+		hzetleajsvhnh37.com
+		fyxdnxvzune4l.com
+		chxegdiddlo5.com
+		flymledkyciuy4n.com
+		sowglgdoxlnjalac57.com
+		jrqnlyspvrojriye7k.com
+
+config2
+	three days ago: 0xb3b4b (736075)
+	downloaded currency xml, 72755 bytes
+	parsed 63 dates from currency xml
+	first date: 2015-04-24
+	finding correct days since:
+		trying: 0xb3b4d (736077) nope
+		trying: 0xb3b4c (736076) nope
+		trying: 0xb3b4b (736075) nope
+		trying: 0xb3b4a (736074) found
+	parsed 31 currencies from 2015-04-21 (currency date):
+		USD: 1.07
+		JPY: 127.75
+		BGN: 1.9558
+		CZK: 27.418
+		DKK: 7.461
+		GBP: 0.7187
+		HUF: 297.41
+		PLN: 3.9683
+		RON: 4.4374
+		SEK: 9.2863
+		CHF: 1.0252
+		NOK: 8.425
+		HRK: 7.577
+		RUB: 57.4375
+		TRY: 2.8755
+		AUD: 1.3821
+		BRL: 3.2423
+		CAD: 1.3085
+		CNY: 6.6358
+		HKD: 8.2926
+		IDR: 13865.38
+		ILS: 4.2198
+		INR: 67.3091
+		KRW: 1158.82
+		MXN: 16.5053
+		MYR: 3.8859
+		NZD: 1.3884
+		PHP: 47.329
+		SGD: 1.4443
+		THB: 34.631
+		ZAR: 12.9576
+	running transforms
+		28 domains
+		seed: 0x2ee53aa5
+			mixing in USD's rate
+			domain chr: r
+			mixing in HUF's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: e
+			mixing in CNY's rate
+			domain chr: o
+			mixing in MXN's rate
+			domain chr: n
+			mixing in ZAR's rate
+			domain chr: p
+			mixing in GBP's rate
+			domain chr: l
+			mixing in NOK's rate
+			domain chr: v
+			mixing in CAD's rate
+			domain chr: c
+			mixing in KRW's rate
+			domain chr: m
+			mixing in THB's rate
+			domain chr: j
+			mixing in DKK's rate
+			domain chr: x
+			mixing in CHF's rate
+			domain: rjeonplvcmjx.com
+		seed: 0x5c078184
+			mixing in USD's rate
+			domain chr: s
+			mixing in HUF's rate
+			domain chr: a
+			mixing in HRK's rate
+			domain chr: n
+			mixing in CNY's rate
+			domain chr: g
+			mixing in MXN's rate
+			domain chr: z
+			mixing in ZAR's rate
+			domain chr: c
+			mixing in GBP's rate
+			domain chr: i
+			mixing in NOK's rate
+			domain chr: n
+			mixing in CAD's rate
+			domain chr: j
+			mixing in KRW's rate
+			domain chr: f
+			mixing in THB's rate
+			domain chr: b
+			mixing in DKK's rate
+			domain chr: y
+			mixing in CHF's rate
+			domain chr: x
+			mixing in BRL's rate
+			domain chr: d
+			mixing in INR's rate
+			domain chr: 5
+			mixing in SGD's rate
+			domain: sangzcinjfbyxd5.com
+		seed: 0x6bda4dcb
+			mixing in USD's rate
+			domain chr: p
+			mixing in HUF's rate
+			domain chr: p
+			mixing in HRK's rate
+			domain chr: p
+			mixing in CNY's rate
+			domain chr: n
+			mixing in MXN's rate
+			domain chr: n
+			mixing in ZAR's rate
+			domain chr: w
+			mixing in GBP's rate
+			domain chr: r
+			mixing in NOK's rate
+			domain chr: z
+			mixing in CAD's rate
+			domain chr: j
+			mixing in KRW's rate
+			domain chr: e
+			mixing in THB's rate
+			domain chr: b
+			mixing in DKK's rate
+			domain chr: h
+			mixing in CHF's rate
+			domain chr: v
+			mixing in BRL's rate
+			domain chr: l
+			mixing in INR's rate
+			domain chr: i
+			mixing in SGD's rate
+			domain chr: k
+			mixing in CZK's rate
+			domain chr: o
+			mixing in SEK's rate
+			domain chr: 8
+			mixing in AUD's rate
+			domain: pppnnwrzjebhvliko8.com
+		seed: 0xe0062a5b
+			mixing in USD's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: e
+			mixing in HRK's rate
+			domain chr: u
+			mixing in CNY's rate
+			domain chr: x
+			mixing in MXN's rate
+			domain chr: h
+			mixing in ZAR's rate
+			domain chr: q
+			mixing in GBP's rate
+			domain chr: k
+			mixing in NOK's rate
+			domain chr: x
+			mixing in CAD's rate
+			domain chr: c
+			mixing in KRW's rate
+			domain chr: x
+			mixing in THB's rate
+			domain chr: x
+			mixing in DKK's rate
+			domain chr: w
+			mixing in CHF's rate
+			domain chr: s
+			mixing in BRL's rate
+			domain chr: c
+			mixing in INR's rate
+			domain chr: u
+			mixing in SGD's rate
+			domain chr: j
+			mixing in CZK's rate
+			domain chr: w
+			mixing in SEK's rate
+			domain chr: z
+			mixing in AUD's rate
+			domain: veuxhqkxcxxwscujwz.com
+		seed: 0x439269e7
+			mixing in USD's rate
+			domain chr: d
+			mixing in HUF's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: n
+			mixing in CNY's rate
+			domain chr: d
+			mixing in MXN's rate
+			domain chr: t
+			mixing in ZAR's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: l
+			mixing in NOK's rate
+			domain chr: s
+			mixing in CAD's rate
+			domain chr: r
+			mixing in KRW's rate
+			domain chr: q
+			mixing in THB's rate
+			domain chr: d
+			mixing in DKK's rate
+			domain chr: a
+			mixing in CHF's rate
+			domain chr: e
+			mixing in BRL's rate
+			domain chr: v
+			mixing in INR's rate
+			domain: dvndtllsrqdaev.com
+		seed: 0xe1f95377
+			mixing in USD's rate
+			domain chr: b
+			mixing in HUF's rate
+			domain chr: m
+			mixing in HRK's rate
+			domain chr: f
+			mixing in CNY's rate
+			domain chr: e
+			mixing in MXN's rate
+			domain chr: r
+			mixing in ZAR's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: b
+			mixing in NOK's rate
+			domain chr: v
+			mixing in CAD's rate
+			domain chr: d
+			mixing in KRW's rate
+			domain chr: x
+			mixing in THB's rate
+			domain chr: p
+			mixing in DKK's rate
+			domain chr: j
+			mixing in CHF's rate
+			domain chr: d
+			mixing in BRL's rate
+			domain chr: u
+			mixing in INR's rate
+			domain chr: w
+			mixing in SGD's rate
+			domain chr: 5
+			mixing in CZK's rate
+			domain: bmfervbvdxpjduw5.com
+		seed: 0x677f0ec1
+			mixing in USD's rate
+			domain chr: f
+			mixing in HUF's rate
+			domain chr: t
+			mixing in HRK's rate
+			domain chr: e
+			mixing in CNY's rate
+			domain chr: q
+			mixing in MXN's rate
+			domain chr: t
+			mixing in ZAR's rate
+			domain chr: j
+			mixing in GBP's rate
+			domain chr: a
+			mixing in NOK's rate
+			domain chr: i
+			mixing in CAD's rate
+			domain chr: d
+			mixing in KRW's rate
+			domain chr: k
+			mixing in THB's rate
+			domain chr: e
+			mixing in DKK's rate
+			domain chr: w
+			mixing in CHF's rate
+			domain: fteqtjaidkew.com
+		seed: 0x59196065
+			mixing in USD's rate
+			domain chr: r
+			mixing in HUF's rate
+			domain chr: z
+			mixing in HRK's rate
+			domain chr: g
+			mixing in CNY's rate
+			domain chr: s
+			mixing in MXN's rate
+			domain chr: v
+			mixing in ZAR's rate
+			domain chr: c
+			mixing in GBP's rate
+			domain chr: g
+			mixing in NOK's rate
+			domain chr: k
+			mixing in CAD's rate
+			domain chr: a
+			mixing in KRW's rate
+			domain chr: d
+			mixing in THB's rate
+			domain chr: o
+			mixing in DKK's rate
+			domain chr: z
+			mixing in CHF's rate
+			domain chr: a
+			mixing in BRL's rate
+			domain chr: l
+			mixing in INR's rate
+			domain chr: 1
+			mixing in SGD's rate
+			domain: rzgsvcgkadozal1.com
+		seed: 0x3d2a4570
+			mixing in USD's rate
+			domain chr: c
+			mixing in HUF's rate
+			domain chr: e
+			mixing in HRK's rate
+			domain chr: j
+			mixing in CNY's rate
+			domain chr: u
+			mixing in MXN's rate
+			domain chr: o
+			mixing in ZAR's rate
+			domain chr: j
+			mixing in GBP's rate
+			domain chr: s
+			mixing in NOK's rate
+			domain chr: m
+			mixing in CAD's rate
+			domain chr: b
+			mixing in KRW's rate
+			domain chr: q
+			mixing in THB's rate
+			domain chr: h
+			mixing in DKK's rate
+			domain chr: z
+			mixing in CHF's rate
+			domain chr: e
+			mixing in BRL's rate
+			domain chr: d
+			mixing in INR's rate
+			domain chr: 9
+			mixing in SGD's rate
+			domain chr: g
+			mixing in CZK's rate
+			domain: cejuojsmbqhzed9g.com
+		seed: 0x1ff07887
+			mixing in USD's rate
+			domain chr: h
+			mixing in HUF's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: h
+			mixing in CNY's rate
+			domain chr: g
+			mixing in MXN's rate
+			domain chr: a
+			mixing in ZAR's rate
+			domain chr: j
+			mixing in GBP's rate
+			domain chr: a
+			mixing in NOK's rate
+			domain chr: e
+			mixing in CAD's rate
+			domain chr: j
+			mixing in KRW's rate
+			domain chr: i
+			mixing in THB's rate
+			domain chr: e
+			mixing in DKK's rate
+			domain chr: a
+			mixing in CHF's rate
+			domain chr: f
+			mixing in BRL's rate
+			domain chr: r
+			mixing in INR's rate
+			domain chr: z
+			mixing in SGD's rate
+			domain chr: g
+			mixing in CZK's rate
+			domain chr: a
+			mixing in SEK's rate
+			domain chr: 0
+			mixing in AUD's rate
+			domain: hvhgajaejieafrzga0.com
+		seed: 0x1f4b548f
+			mixing in USD's rate
+			domain chr: t
+			mixing in HUF's rate
+			domain chr: e
+			mixing in HRK's rate
+			domain chr: u
+			mixing in CNY's rate
+			domain chr: e
+			mixing in MXN's rate
+			domain chr: d
+			mixing in ZAR's rate
+			domain chr: n
+			mixing in GBP's rate
+			domain chr: n
+			mixing in NOK's rate
+			domain chr: b
+			mixing in CAD's rate
+			domain chr: c
+			mixing in KRW's rate
+			domain chr: p
+			mixing in THB's rate
+			domain chr: d
+			mixing in DKK's rate
+			domain chr: 7
+			mixing in CHF's rate
+			domain chr: q
+			mixing in BRL's rate
+			domain: teuednnbcpd7q.com
+		seed: 0x5301b5e8
+			mixing in USD's rate
+			domain chr: a
+			mixing in HUF's rate
+			domain chr: h
+			mixing in HRK's rate
+			domain chr: c
+			mixing in CNY's rate
+			domain chr: l
+			mixing in MXN's rate
+			domain chr: k
+			mixing in ZAR's rate
+			domain chr: s
+			mixing in GBP's rate
+			domain chr: w
+			mixing in NOK's rate
+			domain chr: p
+			mixing in CAD's rate
+			domain chr: f
+			mixing in KRW's rate
+			domain chr: c
+			mixing in THB's rate
+			domain chr: i
+			mixing in DKK's rate
+			domain chr: t
+			mixing in CHF's rate
+			domain: ahclkswpfcit.com
+		seed: 0xfdf1d776
+			mixing in USD's rate
+			domain chr: o
+			mixing in HUF's rate
+			domain chr: r
+			mixing in HRK's rate
+			domain chr: w
+			mixing in CNY's rate
+			domain chr: v
+			mixing in MXN's rate
+			domain chr: b
+			mixing in ZAR's rate
+			domain chr: o
+			mixing in GBP's rate
+			domain chr: x
+			mixing in NOK's rate
+			domain chr: q
+			mixing in CAD's rate
+			domain chr: u
+			mixing in KRW's rate
+			domain chr: q
+			mixing in THB's rate
+			domain chr: i
+			mixing in DKK's rate
+			domain chr: v
+			mixing in CHF's rate
+			domain chr: 9
+			mixing in BRL's rate
+			domain: orwvboxquqiv9.com
+		seed: 0xda8ddb32
+			mixing in USD's rate
+			domain chr: m
+			mixing in HUF's rate
+			domain chr: q
+			mixing in HRK's rate
+			domain chr: x
+			mixing in CNY's rate
+			domain chr: v
+			mixing in MXN's rate
+			domain chr: u
+			mixing in ZAR's rate
+			domain chr: p
+			mixing in GBP's rate
+			domain chr: r
+			mixing in NOK's rate
+			domain chr: j
+			mixing in CAD's rate
+			domain chr: w
+			mixing in KRW's rate
+			domain chr: f
+			mixing in THB's rate
+			domain chr: q
+			mixing in DKK's rate
+			domain chr: l
+			mixing in CHF's rate
+			domain chr: j
+			mixing in BRL's rate
+			domain chr: m
+			mixing in INR's rate
+			domain: mqxvuprjwfqljm.com
+		seed: 0x86962135
+			mixing in USD's rate
+			domain chr: x
+			mixing in HUF's rate
+			domain chr: c
+			mixing in HRK's rate
+			domain chr: m
+			mixing in CNY's rate
+			domain chr: z
+			mixing in MXN's rate
+			domain chr: x
+			mixing in ZAR's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: b
+			mixing in NOK's rate
+			domain chr: y
+			mixing in CAD's rate
+			domain chr: a
+			mixing in KRW's rate
+			domain chr: x
+			mixing in THB's rate
+			domain chr: 1
+			mixing in DKK's rate
+			domain chr: 1
+			mixing in CHF's rate
+			domain: xcmzxvbyax11.com
+		seed: 0x274f1145
+			mixing in USD's rate
+			domain chr: d
+			mixing in HUF's rate
+			domain chr: b
+			mixing in HRK's rate
+			domain chr: f
+			mixing in CNY's rate
+			domain chr: m
+			mixing in MXN's rate
+			domain chr: i
+			mixing in ZAR's rate
+			domain chr: u
+			mixing in GBP's rate
+			domain chr: a
+			mixing in NOK's rate
+			domain chr: l
+			mixing in CAD's rate
+			domain chr: o
+			mixing in KRW's rate
+			domain chr: l
+			mixing in THB's rate
+			domain chr: y
+			mixing in DKK's rate
+			domain chr: x
+			mixing in CHF's rate
+			domain chr: a
+			mixing in BRL's rate
+			domain: dbfmiualolyxa.com
+		seed: 0xfc9bc54b
+			mixing in USD's rate
+			domain chr: d
+			mixing in HUF's rate
+			domain chr: s
+			mixing in HRK's rate
+			domain chr: x
+			mixing in CNY's rate
+			domain chr: f
+			mixing in MXN's rate
+			domain chr: y
+			mixing in ZAR's rate
+			domain chr: i
+			mixing in GBP's rate
+			domain chr: c
+			mixing in NOK's rate
+			domain chr: u
+			mixing in CAD's rate
+			domain chr: k
+			mixing in KRW's rate
+			domain chr: v
+			mixing in THB's rate
+			domain chr: 8
+			mixing in DKK's rate
+			domain chr: i
+			mixing in CHF's rate
+			domain: dsxfyicukv8i.com
+		seed: 0xe56c84f8
+			mixing in USD's rate
+			domain chr: s
+			mixing in HUF's rate
+			domain chr: v
+			mixing in HRK's rate
+			domain chr: e
+			mixing in CNY's rate
+			domain chr: u
+			mixing in MXN's rate
+			domain chr: n
+			mixing in ZAR's rate
+			domain chr: s
+			mixing in GBP's rate
+			domain chr: z
+			mixing in NOK's rate
+			domain chr: k
+			mixing in CAD's rate
+			domain chr: v
+			mixing in KRW's rate
+			domain chr: t
+			mixing in THB's rate
+			domain chr: h
+			mixing in DKK's rate
+			domain chr: b
+			mixing in CHF's rate
+			domain chr: s
+			mixing in BRL's rate
+			domain chr: a
+			mixing in INR's rate
+			domain chr: c
+			mixing in SGD's rate
+			domain chr: o
+			mixing in CZK's rate
+			domain chr: e
+			mixing in SEK's rate
+			domain chr: 1
+			mixing in AUD's rate
+			domain: sveunszkvthbsacoe1.com
+		seed: 0x59034433
+			mixing in USD's rate
+			domain chr: t
+			mixing in HUF's rate
+			domain chr: o
+			mixing in HRK's rate
+			domain chr: r
+			mixing in CNY's rate
+			domain chr: f
+			mixing in MXN's rate
+			domain chr: s
+			mixing in ZAR's rate
+			domain chr: h
+			mixing in GBP's rate
+			domain chr: q
+			mixing in NOK's rate
+			domain chr: c
+			mixing in CAD's rate
+			domain chr: t
+			mixing in KRW's rate
+			domain chr: o
+			mixing in THB's rate
+			domain chr: 9
+			mixing in DKK's rate
+			domain chr: a
+			mixing in CHF's rate
+			domain: torfshqcto9a.com
+		seed: 0x488b01a8
+			mixing in USD's rate
+			domain chr: u
+			mixing in HUF's rate
+			domain chr: g
+			mixing in HRK's rate
+			domain chr: t
+			mixing in CNY's rate
+			domain chr: e
+			mixing in MXN's rate
+			domain chr: m
+			mixing in ZAR's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: c
+			mixing in NOK's rate
+			domain chr: f
+			mixing in CAD's rate
+			domain chr: x
+			mixing in KRW's rate
+			domain chr: p
+			mixing in THB's rate
+			domain chr: j
+			mixing in DKK's rate
+			domain chr: 1
+			mixing in CHF's rate
+			domain chr: q
+			mixing in BRL's rate
+			domain: ugtemlcfxpj1q.com
+		seed: 0xd46fcf3c
+			mixing in USD's rate
+			domain chr: u
+			mixing in HUF's rate
+			domain chr: l
+			mixing in HRK's rate
+			domain chr: k
+			mixing in CNY's rate
+			domain chr: h
+			mixing in MXN's rate
+			domain chr: p
+			mixing in ZAR's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: b
+			mixing in NOK's rate
+			domain chr: h
+			mixing in CAD's rate
+			domain chr: x
+			mixing in KRW's rate
+			domain chr: u
+			mixing in THB's rate
+			domain chr: t
+			mixing in DKK's rate
+			domain chr: s
+			mixing in CHF's rate
+			domain chr: l
+			mixing in BRL's rate
+			domain chr: m
+			mixing in INR's rate
+			domain chr: f
+			mixing in SGD's rate
+			domain: ulkhplbhxutslmf.com
+		seed: 0x3a97c428
+			mixing in USD's rate
+			domain chr: w
+			mixing in HUF's rate
+			domain chr: f
+			mixing in HRK's rate
+			domain chr: y
+			mixing in CNY's rate
+			domain chr: q
+			mixing in MXN's rate
+			domain chr: x
+			mixing in ZAR's rate
+			domain chr: x
+			mixing in GBP's rate
+			domain chr: p
+			mixing in NOK's rate
+			domain chr: n
+			mixing in CAD's rate
+			domain chr: p
+			mixing in KRW's rate
+			domain chr: v
+			mixing in THB's rate
+			domain chr: v
+			mixing in DKK's rate
+			domain chr: q
+			mixing in CHF's rate
+			domain chr: g
+			mixing in BRL's rate
+			domain chr: l
+			mixing in INR's rate
+			domain chr: 6
+			mixing in SGD's rate
+			domain: wfyqxxpnpvvqgl6.com
+		seed: 0xce317018
+			mixing in USD's rate
+			domain chr: c
+			mixing in HUF's rate
+			domain chr: p
+			mixing in HRK's rate
+			domain chr: m
+			mixing in CNY's rate
+			domain chr: j
+			mixing in MXN's rate
+			domain chr: q
+			mixing in ZAR's rate
+			domain chr: l
+			mixing in GBP's rate
+			domain chr: c
+			mixing in NOK's rate
+			domain chr: w
+			mixing in CAD's rate
+			domain chr: z
+			mixing in KRW's rate
+			domain chr: w
+			mixing in THB's rate
+			domain chr: j
+			mixing in DKK's rate
+			domain chr: e
+			mixing in CHF's rate
+			domain chr: l
+			mixing in BRL's rate
+			domain: cpmjqlcwzwjel.com
+		seed: 0x6a4631a5
+			mixing in USD's rate
+			domain chr: h
+			mixing in HUF's rate
+			domain chr: r
+			mixing in HRK's rate
+			domain chr: e
+			mixing in CNY's rate
+			domain chr: v
+			mixing in MXN's rate
+			domain chr: x
+			mixing in ZAR's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: f
+			mixing in NOK's rate
+			domain chr: k
+			mixing in CAD's rate
+			domain chr: w
+			mixing in KRW's rate
+			domain chr: a
+			mixing in THB's rate
+			domain chr: v
+			mixing in DKK's rate
+			domain chr: 5
+			mixing in CHF's rate
+			domain: hrevxvfkwav5.com
+		seed: 0x75f43b57
+			mixing in USD's rate
+			domain chr: v
+			mixing in HUF's rate
+			domain chr: k
+			mixing in HRK's rate
+			domain chr: y
+			mixing in CNY's rate
+			domain chr: q
+			mixing in MXN's rate
+			domain chr: o
+			mixing in ZAR's rate
+			domain chr: b
+			mixing in GBP's rate
+			domain chr: f
+			mixing in NOK's rate
+			domain chr: b
+			mixing in CAD's rate
+			domain chr: l
+			mixing in KRW's rate
+			domain chr: i
+			mixing in THB's rate
+			domain chr: 4
+			mixing in DKK's rate
+			domain chr: 1
+			mixing in CHF's rate
+			domain: vkyqobfbli41.com
+		seed: 0xbe4f6986
+			mixing in USD's rate
+			domain chr: k
+			mixing in HUF's rate
+			domain chr: j
+			mixing in HRK's rate
+			domain chr: b
+			mixing in CNY's rate
+			domain chr: n
+			mixing in MXN's rate
+			domain chr: w
+			mixing in ZAR's rate
+			domain chr: t
+			mixing in GBP's rate
+			domain chr: a
+			mixing in NOK's rate
+			domain chr: l
+			mixing in CAD's rate
+			domain chr: s
+			mixing in KRW's rate
+			domain chr: n
+			mixing in THB's rate
+			domain chr: s
+			mixing in DKK's rate
+			domain chr: a
+			mixing in CHF's rate
+			domain chr: o
+			mixing in BRL's rate
+			domain chr: h
+			mixing in INR's rate
+			domain chr: z
+			mixing in SGD's rate
+			domain chr: w
+			mixing in CZK's rate
+			domain chr: 7
+			mixing in SEK's rate
+			domain chr: r
+			mixing in AUD's rate
+			domain: kjbnwtalsnsaohzw7r.com
+		seed: 0x840277a6
+			mixing in USD's rate
+			domain chr: a
+			mixing in HUF's rate
+			domain chr: q
+			mixing in HRK's rate
+			domain chr: o
+			mixing in CNY's rate
+			domain chr: c
+			mixing in MXN's rate
+			domain chr: o
+			mixing in ZAR's rate
+			domain chr: g
+			mixing in GBP's rate
+			domain chr: t
+			mixing in NOK's rate
+			domain chr: h
+			mixing in CAD's rate
+			domain chr: z
+			mixing in KRW's rate
+			domain chr: s
+			mixing in THB's rate
+			domain chr: z
+			mixing in DKK's rate
+			domain chr: x
+			mixing in CHF's rate
+			domain chr: b
+			mixing in BRL's rate
+			domain chr: w
+			mixing in INR's rate
+			domain chr: 1
+			mixing in SGD's rate
+			domain: aqocogthzszxbw1.com
+		seed: 0x5429c284
+			mixing in USD's rate
+			domain chr: m
+			mixing in HUF's rate
+			domain chr: r
+			mixing in HRK's rate
+			domain chr: v
+			mixing in CNY's rate
+			domain chr: a
+			mixing in MXN's rate
+			domain chr: k
+			mixing in ZAR's rate
+			domain chr: v
+			mixing in GBP's rate
+			domain chr: o
+			mixing in NOK's rate
+			domain chr: u
+			mixing in CAD's rate
+			domain chr: i
+			mixing in KRW's rate
+			domain chr: q
+			mixing in THB's rate
+			domain chr: u
+			mixing in DKK's rate
+			domain chr: f
+			mixing in CHF's rate
+			domain chr: g
+			mixing in BRL's rate
+			domain chr: m
+			mixing in INR's rate
+			domain chr: x
+			mixing in SGD's rate
+			domain chr: d
+			mixing in CZK's rate
+			domain chr: 9
+			mixing in SEK's rate
+			domain chr: b
+			mixing in AUD's rate
+			domain: mrvakvouiqufgmxd9b.com
+	transforms done
+
+	28 domains:
+		rjeonplvcmjx.com
+		sangzcinjfbyxd5.com
+		pppnnwrzjebhvliko8.com
+		veuxhqkxcxxwscujwz.com
+		dvndtllsrqdaev.com
+		bmfervbvdxpjduw5.com
+		fteqtjaidkew.com
+		rzgsvcgkadozal1.com
+		cejuojsmbqhzed9g.com
+		hvhgajaejieafrzga0.com
+		teuednnbcpd7q.com
+		ahclkswpfcit.com
+		orwvboxquqiv9.com
+		mqxvuprjwfqljm.com
+		xcmzxvbyax11.com
+		dbfmiualolyxa.com
+		dsxfyicukv8i.com
+		sveunszkvthbsacoe1.com
+		torfshqcto9a.com
+		ugtemlcfxpj1q.com
+		ulkhplbhxutslmf.com
+		wfyqxxpnpvvqgl6.com
+		cpmjqlcwzwjel.com
+		hrevxvfkwav5.com
+		vkyqobfbli41.com
+		kjbnwtalsnsaohzw7r.com
+		aqocogthzszxbw1.com
+		mrvakvouiqufgmxd9b.com
+
