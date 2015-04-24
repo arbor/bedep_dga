@@ -14,7 +14,7 @@ class BedepDGA:
         self.utctime_xml = "http://www.earthtools.org/timezone/0/0"
         self.currency_xml = "http://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
 
-        self.max_currencies = 48
+        self.max_currencies = self.config["max_currencies"]
 
         # table extracted from dll
         fp = open(self.config["table"], "rb")
@@ -546,6 +546,7 @@ if __name__ == "__main__":
                 "value2": 0xd666e1f3,
                 "value3": 0x2666ca48,
                 "table": "transform2_table_var1.json",
+                "max_currencies": 48,
             },
 
             # AML-19646835
@@ -554,6 +555,15 @@ if __name__ == "__main__":
                 "value2": 0x7cd02d69,
                 "value3": 0x8cd006d2,
                 "table": "transform2_table_var2.json",
+                "max_currencies": 48,
+            },
+            # AML-20382547
+            {
+                "value1": 0x4cdff15c,
+                "value2": 0x1bbae2d4,
+                "value3": 0xebbac96f,
+                "table": "transform2_table_var3.json",
+                "max_currencies": 36,
             },
         ]
 
