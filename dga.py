@@ -158,7 +158,13 @@ class BedepDGA:
     def broken_float(self, str_float):
         # bedep's atof()
         # off by a bit
-        one, two = str_float.split(".")
+        pieces = str_float.split(".")
+        if len(pieces) == 2:
+            one, two = pieces
+        else:
+            one = pieces[0]
+            two = 0
+
         num_digits = len(str(two))
 
         one = int(one)
