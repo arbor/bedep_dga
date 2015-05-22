@@ -554,7 +554,6 @@ if __name__ == "__main__":
                 "table": "transform2_table_var1.json",
                 "max_currencies": 48,
             },
-
             # AML-19646835
             {
                 "value1": 0x36a64c8a,
@@ -571,6 +570,14 @@ if __name__ == "__main__":
                 "table": "transform2_table_var3.json",
                 "max_currencies": 36,
             },
+            # AML-20846035
+            {   
+                "value1": 0x52eb3676,
+                "value2": 0x7952538d,
+                "value3": 0x89527836,
+                "table": "transform2_table_var4.json",
+                "max_currencies": 36, 
+            },  
         ]
 
     for i, config in enumerate(configs):
