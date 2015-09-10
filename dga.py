@@ -25,7 +25,7 @@ class BedepDGA:
     def __init__(self, config):
         self.config = config
 
-        self.utctime_xml = "http://www.earthtools.org/timezone/0/0"
+        self.utctime_xml = "http://new.earthtools.org/timezone/0/0"
         self.currency_xml = "http://www.ecb.europa.eu/stats/eurofxref/eurofxref-hist-90d.xml"
 
         self.max_currencies = self.config["max_currencies"]
