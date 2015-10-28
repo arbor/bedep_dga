@@ -592,6 +592,22 @@ if __name__ == "__main__":
                 "table": "transform2_table_var4.json",
                 "max_currencies": 36, 
             },  
+            # AML-27555089 / d2a977fa29acda0a7a272670f0706508
+            {   
+                "value1": 0x8af8b34d,
+                "value2": 0x2be8c4b0,
+                "value3": 0xdbe8ef0b,
+                "table": "transform2_table_var5.json",
+                "max_currencies": 36, 
+            },  
+            # AML-27580367 / 9aad1b163fa550f7979d822b6f5078c9
+            {   
+                "value1": 0xa28eafd8,
+                "value2": 0x2edfdb46,
+                "value3": 0xdedff0fd,
+                "table": "transform2_table_var6.json",
+                "max_currencies": 36, 
+            },  
         ]
 
     for i, config in enumerate(configs):
