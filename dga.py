@@ -608,6 +608,14 @@ if __name__ == "__main__":
                 "table": "transform2_table_var6.json",
                 "max_currencies": 36, 
             },  
+            # AML-28101739 / 3aa5d612889aeab6295752cdf95b5db0
+            {   
+                "value1": 0xda9ce3f7,
+                "value2": 0xd1cecf92,
+                "value3": 0x21cee429,
+                "table": "transform2_table_var7.json",
+                "max_currencies": 36, 
+            },  
         ]
 
     for i, config in enumerate(configs):
